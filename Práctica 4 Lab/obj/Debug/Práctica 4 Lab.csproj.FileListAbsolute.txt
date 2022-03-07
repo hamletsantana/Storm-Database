@@ -1,0 +1,13 @@
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\Database.mdf
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\Database_log.ldf
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\Práctica 4 Lab.exe
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\Práctica 4 Lab.pdb
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\obj\Debug\Práctica 4 Lab.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\obj\Debug\Práctica 4 Lab.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\obj\Debug\Práctica 4 Lab.exe
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\obj\Debug\Práctica 4 Lab.pdb
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\Práctica 4 Lab.exe.config
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\log4net.config
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\log4net.dll
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\bin\Debug\log4net.xml
+C:\Users\DELL\Documents\INTEC\Lab Programación III\INS215L\Práctica 4 Lab\obj\Debug\Práctica 4 Lab.csproj.CopyComplete
